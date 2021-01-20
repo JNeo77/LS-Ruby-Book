@@ -1,11 +1,3 @@
-# String concatenation
+name = "Jim " + "Oursler"
 
-x = "Jim " + "Oursler"
-puts x
-
-# Or
-
-a = "Jim"
-b = "Oursler"
-
-puts "#{a} #{b}"   
+puts name

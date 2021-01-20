@@ -1,9 +1,4 @@
-thousands = 5492 / 1000
-hundreds = 5492 % 1000 / 100
-tens = 5492 % 1000 % 100 / 10
-ones = 5492 % 1000 % 100 % 10
-
-puts thousands
-puts hundreds
-puts tens
-puts ones
+puts 5123 / 1000
+puts 5123 % 1000 / 100
+puts 5123 % 1000 % 100 / 10
+puts 5123 % 1000 % 100 % 10

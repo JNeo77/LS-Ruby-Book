@@ -1,9 +1,10 @@
-#Array
+movie_years = [1941, 1972, 1954, 1953, 2014, 1994, 1958, 1946]
 
-dates = [1977, 2002, 1999, 1985, 1995]
-
-puts dates[0]
-puts dates[1]
-puts dates[2]
-puts dates[3]
-puts dates[4]
+puts movie_years[0]
+puts movie_years[1]
+puts movie_years[2]
+puts movie_years[3]
+puts movie_years[4]
+puts movie_years[5]
+puts movie_years[6]
+puts movie_years[7]
